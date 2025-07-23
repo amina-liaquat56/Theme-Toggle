@@ -1,4 +1,4 @@
-# 🌗 Theme Toggle – HTML, CSS, JavaScript
+# Theme Toggle 
 
 This project is a simple and beginner-friendly **Theme Toggle** web page that lets users switch between **Light Mode** and **Dark Mode** using a button. It's built using plain **HTML**, **CSS**, and **JavaScript** with clean and responsive design.
 
